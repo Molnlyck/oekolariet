@@ -1,6 +1,7 @@
 <snippet>
-<content><![CDATA[
-# ${1:Project Name}
+<content>
+# Økolariet
+## MSTP Systems (Adminstrations Panel samt meningsprogram)
 
 Projektet er et program lavet til Økolariet, og som skal fungere til deres nye udstilling i 2017 (Energi)
 
@@ -34,6 +35,5 @@ Boulvevarden 25,
 
 Alle rettigheder forbeholdes og alt er designet og udarbejdet af MSTP Systems
 
-]]></content>
-<tabTrigger>readme</tabTrigger>
+</content>
 </snippet>
